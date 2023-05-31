@@ -5,13 +5,13 @@
 </template>
 
 <script setup lang="ts">
-const tmp = "双引号";
+const tmp = '双引号'
 </script>
 
 <style scoped>
-.test{
-    width: 200px;
-    height: 400px;
-    background-color: #fff;
+.test {
+  width: 200px;
+  height: 400px;
+  background-color: #fff;
 }
 </style>
