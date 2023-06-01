@@ -1,14 +1,14 @@
 <template>
   <div class="test">
-    <h1>测试lint</h1>
+    <h1>我是测试lint</h1>
   </div>
 </template>
 
 <script setup lang="ts">
 // 语法和格式化测试
-const tmp = "双引号";
+const tmp = '双引号'
 function test() {
-  var a = 1;
+  let a = 1
   console.log('111', a)
 }
 test()
@@ -17,9 +17,9 @@ console.log(tmp)
 
 <style scoped>
 /* style测试 */
-.test{
-  width:200px;
-  height:400px;
-  background-color:#fff;
+.test {
+  width: 200px;
+  height: 400px;
+  background-color: #fff;
 }
 </style>
