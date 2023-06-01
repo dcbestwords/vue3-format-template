@@ -1,6 +1,6 @@
 <template>
   <div class="test">
-    <h1>我是测试lint</h1>
+    <h1>测试lint</h1>
   </div>
 </template>
 
